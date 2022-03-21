@@ -5,14 +5,14 @@
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "Parcelamos em 10x sem juros"
   },
   "exchange": {
     "show": true,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "text": "Frete Grátis"
   },
   "promo": {
     "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": ""
   }
 }
