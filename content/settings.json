@@ -3,7 +3,7 @@
   "currency_symbol": "R$",
   "primary_color": "#000000",
   "theme": {
-    "bootswatch": "cosmo",
+    "bootswatch": "cyborg",
     "custom": "clean-white"
   },
   "bg_color": "#ffffff",
@@ -14,7 +14,7 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "Roboto",
+  "font_family": "Roboto Mono",
   "favicon": "/img/uploads/download-1-.png",
   "icons_font": "line-awesome",
   "country_code": "BR",
