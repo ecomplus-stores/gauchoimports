@@ -12,7 +12,7 @@
     "text": "Frete Grátis"
   },
   "promo": {
-    "show": true,
+    "show": false,
     "text": ""
   }
 }
