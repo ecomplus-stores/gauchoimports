@@ -8,7 +8,7 @@
     "text": "Parcelamos em 10x sem juros"
   },
   "exchange": {
-    "show": true,
+    "show": false,
     "text": "Frete Grátis"
   },
   "promo": {
