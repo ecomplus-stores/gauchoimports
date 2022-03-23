@@ -1,7 +1,7 @@
 {
   "domain": "gauchoimports.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#000000",
+  "primary_color": "#ffff07",
   "theme": {
     "bootswatch": "_",
     "custom": "clean-dark"
