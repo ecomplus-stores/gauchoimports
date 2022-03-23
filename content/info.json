@@ -1,7 +1,7 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Frete Grátis para todo o Brasil"
   },
   "installments": {
     "show": true,
@@ -12,7 +12,7 @@
     "text": "Frete Grátis"
   },
   "promo": {
-    "show": false,
-    "text": ""
+    "show": true,
+    "text": "Pix: 5% de desconto"
   }
 }
