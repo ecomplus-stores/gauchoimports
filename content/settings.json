@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#000000",
   "theme": {
-    "bootswatch": "cerulean",
-    "custom": "clean-white"
+    "bootswatch": "_",
+    "custom": "clean-dark"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/gauchoimports",
@@ -16,7 +16,7 @@
   "mini_logo": "",
   "font_family": "Open Sans",
   "favicon": "/img/uploads/download-1-.png",
-  "icons_font": "line-awesome",
+  "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#ffffff",
   "icon": "/img/uploads/download-1-.png",
