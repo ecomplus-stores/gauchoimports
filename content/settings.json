@@ -6,7 +6,7 @@
     "bootswatch": "cyborg",
     "custom": "clean-dark"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#bcbcbc",
   "repository": "ecomplus-stores/gauchoimports",
   "logo": "/img/uploads/download.png",
   "name": "Gaúcho Imports",
