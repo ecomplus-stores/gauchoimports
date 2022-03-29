@@ -1,9 +1,9 @@
 {
   "domain": "gauchoimports.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#c4d2a8",
+  "primary_color": "#ffffff",
   "theme": {
-    "bootswatch": "cerulean",
+    "bootswatch": "cyborg",
     "custom": "clean-dark"
   },
   "bg_color": "#ffffff",
