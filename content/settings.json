@@ -4,7 +4,7 @@
   "primary_color": "#0a0a0a",
   "theme": {
     "bootswatch": "lux",
-    "custom": "_"
+    "custom": "clean-gray"
   },
   "bg_color": "#000000",
   "repository": "ecomplus-stores/gauchoimports",
