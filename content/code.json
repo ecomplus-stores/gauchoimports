@@ -1,5 +1,5 @@
 {
   "css": "@media screen and (min-width: 998px) {\n    .product-item {\n        max-width: 180px;\n    }\n\n    .glide_slide.products-carousel_item {\n        width: 120px !important;\n    }\n}",
-  "html_head": "",
+  "html_head": "<!-- Meta Pixel Code -->\n<script>\n  !function(f,b,e,v,n,t,s)\n  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?\n  n.callMethod.apply(n,arguments):n.queue.push(arguments)};\n  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\n  n.queue=[];t=b.createElement(e);t.async=!0;\n  t.src=v;s=b.getElementsByTagName(e)[0];\n  s.parentNode.insertBefore(t,s)}(window, document,'script',\n  'https://connect.facebook.net/en_US/fbevents.js');\n  fbq('init', '376142221205841');\n  fbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\n  src=\"https://www.facebook.com/tr?id=376142221205841&ev=PageView&noscript=1\"\n/></noscript>\n<!-- End Meta Pixel Code -->",
   "html_body": "<a href=\"https://wa.me/5551995318962?text=Ola Gaucho%20preciso%20de%20ajuda%20\" style=\"position:fixed;width:60px;height:60px;bottom:40px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;z-index:1000;right:40px;\" target=\"_blank\">\n<i style=\"margin-top:16px\" class=\"fab fa-whatsapp\"></i>\n</a>"
 }
