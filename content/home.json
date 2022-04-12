@@ -3,6 +3,15 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/iphone-13-pro-max-1-.png",
+          "link": "https://gauchoimports.com.br/iphone-13-pro-max-256-gb---verde-alpino"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
