@@ -12,3 +12,6 @@
     font-weight: bold;
     border-radius: var(--border-radius);
 }
+.product__picture picture, .description {
+    background: transparent !important
+}
