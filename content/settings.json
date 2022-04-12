@@ -1,7 +1,7 @@
 {
   "domain": "gauchoimports.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#ffed00",
+  "primary_color": "#000000",
   "theme": {
     "bootswatch": "cosmo",
     "custom": "_"
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/download-1-.png",
   "icons_font": "font-awesome",
   "country_code": "BR",
-  "secondary_color": "#00fffa",
+  "secondary_color": "#fbff00",
   "icon": "/img/uploads/download-1-.png",
   "store_id": 45087,
   "description": "Desde 2019 o Gaúcho Imports tem como objetivo, ser o elo, entre os clientes e seus sonhos de consumo. Trazendo o melhor da importação, de uma maneira fácil e ágil, com apenas alguns cliques. Trabalhamos com produtos dos melhores fornecedores nacionais e internacionais. A nossa missão é conectar as pessoas a uma vida com mais tecnologia, por preços acessiveis.",
