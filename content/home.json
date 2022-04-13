@@ -14,14 +14,6 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "62548abb2e405e04ff387ea4:categories:Lançamentos:/lancamentos",
-      "sort": "news"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
       "collection_id": "6236c0392e405e04ffebcad6:categories:iPhones Novos:/iphones-novos",
       "sort": "views",
       "title": "",
