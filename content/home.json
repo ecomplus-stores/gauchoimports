@@ -3,6 +3,32 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2022-04-19T05:41:53.918Z",
+          "end": "2022-04-19T05:41:53.957Z",
+          "img": "/img/uploads/apple-watch.png",
+          "link": "https://gauchoimports.com.br/apple-watch"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "2022-04-19T05:43:53.285Z",
+          "end": "2022-04-19T05:43:53.298Z",
+          "img": "/img/uploads/iphone-13-pro-max-1-.png",
+          "link": "https://gauchoimports.com.br/iphone-13-pro-max-256-gb---verde-alpino"
+        }
+      ]
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -72,19 +98,6 @@
       "type": "responsive-banner",
       "img": "/img/uploads/apple-watch.png",
       "link": "https://gauchoimports.com.br/apple-watch"
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "2022-04-19T05:41:53.918Z",
-          "end": "2022-04-19T05:41:53.957Z",
-          "img": "/img/uploads/apple-watch.png",
-          "link": "https://gauchoimports.com.br/apple-watch"
-        }
-      ]
     }
   ]
 }
