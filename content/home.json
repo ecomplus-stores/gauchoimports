@@ -72,6 +72,19 @@
       "type": "responsive-banner",
       "img": "/img/uploads/apple-watch.png",
       "link": "https://gauchoimports.com.br/apple-watch"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2022-04-19T05:41:53.918Z",
+          "end": "2022-04-19T05:41:53.957Z",
+          "img": "/img/uploads/apple-watch.png",
+          "link": "https://gauchoimports.com.br/apple-watch"
+        }
+      ]
     }
   ]
 }
