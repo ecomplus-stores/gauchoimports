@@ -80,11 +80,6 @@
     {
       "type": "info-bar",
       "enabled": true
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/apple-watch.png",
-      "link": "https://gauchoimports.com.br/apple-watch"
     }
   ]
 }
