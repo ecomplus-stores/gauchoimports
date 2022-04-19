@@ -16,16 +16,6 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": "6236c0392e405e04ffebcad6:categories:iPhones Novos:/iphones-novos",
-      "sort": "views",
-      "title": "",
-      "headless": false,
-      "limit": 17,
-      "page": 1
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
@@ -39,17 +29,14 @@
       ]
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "2022-04-19T06:29:34.729Z",
-          "end": "2025-07-24T06:30:04.306Z",
-          "img": "/img/uploads/iphone-13-pro-max-1-.png",
-          "link": "https://gauchoimports.com.br/iphone-13-pro-max-256-gb---verde-alpino"
-        }
-      ]
+      "type": "collection-shelf",
+      "shuffle": true,
+      "collection_id": "6236c0392e405e04ffebcad6:categories:iPhones Novos:/iphones-novos",
+      "sort": "views",
+      "title": "",
+      "headless": false,
+      "limit": 17,
+      "page": 1
     },
     {
       "type": "collection-shelf",
