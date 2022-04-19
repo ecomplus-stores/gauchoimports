@@ -23,6 +23,6 @@
     "random": 7,
     "full_width": true
   },
-  "desktop_megamenu": true,
+  "desktop_megamenu": false,
   "search_input": true
 }
