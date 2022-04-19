@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 7000,
+      "autoplay": 9000,
       "full_width": false,
       "slides": [
         {
@@ -15,7 +15,7 @@
         },
         {
           "start": "2022-04-19T06:40:11.312Z",
-          "end": "2022-04-19T06:40:11.331Z",
+          "end": "2025-07-10T06:40:11.331Z",
           "img": "/img/uploads/iphone-13-pro-max-1-.png",
           "link": "https://gauchoimports.com.br/iphone-13-pro-max-256-gb---verde-alpino"
         }
