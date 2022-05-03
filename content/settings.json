@@ -4,11 +4,11 @@
   "primary_color": "#000000",
   "theme": {
     "bootswatch": "united",
-    "custom": "clean-white"
+    "custom": "clean-dark"
   },
   "bg_color": "#000000",
   "repository": "ecomplus-stores/gauchoimports",
-  "logo": "/img/uploads/composicao-50.jpg",
+  "logo": "/img/uploads/composicao-5_20.jpg",
   "name": "Gaúcho Imports",
   "short_name": "GaúchoImports",
   "lang": "pt_br",
