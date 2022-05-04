@@ -34,6 +34,10 @@
       ]
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/ajuste-gauchi-imports.jpg"
+    },
+    {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0
