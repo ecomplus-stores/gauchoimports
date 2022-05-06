@@ -12,14 +12,14 @@
   },
   "categories_list": {
     "featured": [
+      "/marcas?Marcas",
       "/lancamentos?Lançamentos",
       "/ofertas?Novidades",
       "/iphones-novos?iPhones Novos",
       "/iphones-semi-novos?iPhones Semi Novos",
       "/apple?Apple",
       "/xiaomi?Xiaomi",
-      "/diversos?Diversos",
-      "/marcas?Marcas"
+      "/diversos?Diversos"
     ],
     "random": 8,
     "full_width": true
