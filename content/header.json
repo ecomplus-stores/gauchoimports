@@ -1,9 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "TODO SITE EM 10X SEM JUROS",
+    "text": "",
     "link": "",
-    "background": "#000000",
-    "color": "#ffe500"
+    "background": "",
+    "color": ""
   },
   "contacts_stripe": {
     "pages": [],
@@ -18,9 +18,10 @@
       "/iphones-semi-novos?iPhones Semi Novos",
       "/apple?Apple",
       "/xiaomi?Xiaomi",
-      "/diversos?Diversos"
+      "/diversos?Diversos",
+      "/marcas?Marcas"
     ],
-    "random": 7,
+    "random": 8,
     "full_width": true
   },
   "desktop_megamenu": false,
