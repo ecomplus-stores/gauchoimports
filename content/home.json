@@ -34,8 +34,16 @@
       ]
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/composicao-60.jpg"
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "2022-05-11T05:22:19.209Z",
+          "end": "2022-05-11T05:22:19.224Z",
+          "img": "/img/uploads/composicao-60.jpg"
+        }
+      ]
     },
     {
       "type": "responsive-banner",
