@@ -5,7 +5,7 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
+      "full_width": true,
       "slides": [
         {
           "start": "2022-04-28T05:36:47.697Z",
@@ -38,13 +38,13 @@
       "img": "/img/uploads/composicao-60.jpg"
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/ajuste-gauchi-imports.jpg"
-    },
-    {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/ajuste-gauchi-imports.jpg"
     },
     {
       "type": "collection-shelf",
