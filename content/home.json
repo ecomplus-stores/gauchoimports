@@ -34,12 +34,8 @@
       ]
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/composicao-60.jpg"
-        }
-      ]
+      "type": "responsive-banner",
+      "img": "/img/uploads/composicao-60.jpg"
     },
     {
       "type": "responsive-banner",
