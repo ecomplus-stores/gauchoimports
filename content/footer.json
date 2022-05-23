@@ -26,6 +26,14 @@
     {
       "src": "/img/uploads/ssl-safe.png",
       "alt": "Secure connection"
+    },
+    {
+      "src": "/img/uploads/logo-150resolucao-300px.png",
+      "link": "https://safeweb.norton.com/report/show?url=https%3A%2F%2Fgauchoimports.com.br%2F"
+    },
+    {
+      "src": "/img/uploads/download.png",
+      "link": "https://transparencyreport.google.com/safe-browsing/search?url=https:%2F%2Fgauchoimports.com.br%2F&hl=pt-PT"
     }
   ],
   "payment_methods": {
