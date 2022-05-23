@@ -61,6 +61,15 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
+      "limit": 20,
+      "page": 1,
+      "collection_id": "625717782e405e04ff3e0535:categories:Novidades:/ofertas",
+      "sort": "news",
+      "title": "Novidades da Semana"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
       "limit": 12,
       "page": 1,
       "sort": "news",
