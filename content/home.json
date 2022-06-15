@@ -8,10 +8,11 @@
       "full_width": true,
       "slides": [
         {
-          "start": "2022-04-28T05:36:47.697Z",
+          "start": "2022-06-15T06:30:47.697Z",
           "end": "2023-07-14T05:38:08.912Z",
-          "img": "/img/uploads/composicao-1_10.jpg",
-          "link": "https://gauchoimports.com.br/search?term=iphone"
+          "img": "/img/uploads/composicao-1_10.webp",
+          "link": "https://gauchoimports.com.br/search?term=iphone",
+          "mobile_img": ""
         },
         {
           "start": "2022-04-19T06:08:35.012Z",
