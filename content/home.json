@@ -55,11 +55,6 @@
       "img": "/img/uploads/ajuste-gauchi-imports.jpg"
     },
     {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 20,
@@ -124,6 +119,11 @@
       "limit": 15,
       "page": 1,
       "sort": "sales"
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
     },
     {
       "type": "info-bar",
