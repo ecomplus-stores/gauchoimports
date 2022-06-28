@@ -89,6 +89,10 @@
       "sort": null
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/ajuste-gauchi-imports.jpg"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
@@ -99,10 +103,6 @@
           "img": "/img/uploads/composicao-60.jpg"
         }
       ]
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/ajuste-gauchi-imports.jpg"
     },
     {
       "type": "info-bar",
