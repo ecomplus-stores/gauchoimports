@@ -3,38 +3,12 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "2022-06-15T06:30:47.697Z",
-          "end": "2023-07-14T05:38:08.912Z",
-          "img": "/img/uploads/banner-01.webp",
-          "link": "https://gauchoimports.com.br/search?term=iphone",
-          "mobile_img": ""
-        }
-      ]
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/ajuste-site.png"
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "2022-05-11T19:36:48.415Z",
-          "end": "2027-07-23T19:37:16.314Z",
-          "img": "/img/uploads/composicao-60.jpg"
-        }
-      ]
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/ajuste-gauchi-imports.jpg"
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "news",
+      "collection_id": "62548abb2e405e04ff387ea4:categories:Lançamentos:/lancamentos"
     },
     {
       "type": "collection-shelf",
@@ -47,14 +21,6 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "news",
-      "collection_id": "62548abb2e405e04ff387ea4:categories:Lançamentos:/lancamentos"
-    },
-    {
-      "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "6236c0392e405e04ffebcad6:categories:iPhones Novos:/iphones-novos",
       "sort": "news",
@@ -62,6 +28,20 @@
       "headless": false,
       "limit": 17,
       "page": 1
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2022-06-15T06:30:47.697Z",
+          "end": "2023-07-14T05:38:08.912Z",
+          "img": "/img/uploads/banner-01.webp",
+          "link": "https://gauchoimports.com.br/search?term=iphone",
+          "mobile_img": ""
+        }
+      ]
     },
     {
       "type": "collection-shelf",
@@ -110,6 +90,26 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/design-sem-nome.webp"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "2022-05-11T19:36:48.415Z",
+          "end": "2027-07-23T19:37:16.314Z",
+          "img": "/img/uploads/composicao-60.jpg"
+        }
+      ]
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/ajuste-gauchi-imports.jpg"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/ajuste-site.png"
     },
     {
       "type": "info-bar",
