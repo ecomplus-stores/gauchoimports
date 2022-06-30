@@ -80,7 +80,8 @@
       "shuffle": false,
       "limit": 15,
       "page": 1,
-      "sort": "sales"
+      "sort": "views",
+      "title": "Produtos que fazem sucesso"
     },
     {
       "type": "brands-carousel",
