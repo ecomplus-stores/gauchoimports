@@ -14,13 +14,11 @@
     "featured": [
       "/marcas?Marcas",
       "/lancamentos?Lançamentos",
-      "/iphones-novos?iPhones Novos",
-      "/iphones-semi-novos?iPhones Semi Novos",
       "/apple?Apple",
       "/xiaomi?Xiaomi",
       "/diversos?Diversos"
     ],
-    "random": 8,
+    "random": 7,
     "full_width": true
   },
   "desktop_megamenu": false,
