@@ -80,18 +80,6 @@
       "img": "/img/uploads/ajuste-gauchi-imports.jpg"
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "2022-05-11T19:36:48.415Z",
-          "end": "2027-07-23T19:37:16.314Z",
-          "img": "/img/uploads/composicao-60.jpg"
-        }
-      ]
-    },
-    {
       "type": "responsive-banner",
       "img": "/img/uploads/design-sem-nome.webp"
     }
