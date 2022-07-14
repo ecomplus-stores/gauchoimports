@@ -94,10 +94,6 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/design-sem-nome.webp"
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
     }
   ]
 }
