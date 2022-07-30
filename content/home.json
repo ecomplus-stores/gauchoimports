@@ -3,6 +3,18 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "2022-07-30T05:50:01.509Z",
+          "end": "2024-07-27T05:49:38.107Z",
+          "img": "/img/uploads/banner-01_alterado.png"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
