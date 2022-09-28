@@ -1,5 +1,5 @@
 {
-  "css": "@media screen and (min-width: 998px) {\n    .product-item {\n        max-width: 180px;\n    }\n\n    .glide__slide.products-carousel__item {\n        width: 180px !important;\n    }\n\n.product-card .prices__value {\n  display: none\n}\n.product-card .prices span {\n  display: flex;\n  flex-direction: column\n}\n.product-card .prices__discount {\n  order: -1;\n  font-size: var(--font-size-lg)\n}\n.product-card .prices__installments {\n  display: flex;\n}\n.product-card .prices__installments:before {\n  content: 'ou \\00a0'\n}\n.product-card .prices__installments span {\n  padding-left: 5px\n}\n#product-actions .prices__discount span:after {\n  content: '(10%OFF)'\n}\n",
+  "css": "@media screen and (min-width: 998px) {\n    .product-item {\n        max-width: 180px;\n    }\n\n    .glide__slide.products-carousel__item {\n        width: 180px !important;\n    }\n\n",
   "html_head": "",
   "html_body": "<a href=\"https://wa.me/5551982340252?text=Ola Gaúcho%20preciso%20de%20ajuda%20\" style=\"position:fixed;width:60px;height:60px;bottom:40px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;z-index:1000;right:40px;\" target=\"_blank\">\n<i style=\"margin-top:16px\" class=\"fab fa-whatsapp\"></i>\n</a>\n\n\n"
 }
