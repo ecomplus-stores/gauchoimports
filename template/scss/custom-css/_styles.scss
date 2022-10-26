@@ -1,17 +1,4 @@
 // Add your custom CSS here.
-.product-card::after {
-    content: "FRETE GRÁTIS";
-    display: block;
-    position: absolute;
-    top: 3rem;
-    right: 0;
-    padding: 0.25rem 0.5rem;
-    background: #000;
-    color: #fff;
-    font-size: 12px;
-    font-weight: bold;
-    border-radius: var(--border-radius);
-}
 .product__picture picture, .description {
     background: transparent !important
 }
