@@ -1,5 +1,5 @@
 {
   "css": "\n\n    .glide__slide.products-carousel__item {\n        width: 180px !important;\n    }\n\n \n",
   "html_head": "\n\n<!-- Global site tag (gtag.js) - Google Ads: AW-10843263166 --> <script async src=\"https://www.googletagmanager.com/gtag/js?id=AW-10843263166\"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-10843263166'); </script>",
-  "html_body": "<a href=\"https://wa.me/5551982340252?text=Ola Gaúcho%20preciso%20de%20ajuda%20\" style=\"position:fixed;width:60px;height:60px;bottom:40px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;z-index:1000;right:40px;\" target=\"_blank\">\n<i style=\"margin-top:16px\" class=\"fab fa-whatsapp\"></i>\n</a>\n\n\n"
+  "html_body": "<a href=\"https://wa.me/5551991480493?text=Ola Gaúcho%20preciso%20de%20ajuda%20\" style=\"position:fixed;width:60px;height:60px;bottom:40px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;z-index:1000;right:40px;\" target=\"_blank\">\n<i style=\"margin-top:16px\" class=\"fab fa-whatsapp\"></i>\n</a>\n\n\n"
 }
