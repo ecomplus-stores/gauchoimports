@@ -15,6 +15,12 @@
       ]
     },
     {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "sort": null
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -80,12 +86,6 @@
       "page": 1,
       "sort": "views",
       "title": "Produtos que fazem sucesso"
-    },
-    {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0,
-      "sort": null
     },
     {
       "type": "responsive-banner",
