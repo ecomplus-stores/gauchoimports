@@ -5,16 +5,21 @@
       "enabled": true
     },
     {
-      "type": "page-title"
-    },
-    {
-      "type": "document-banner",
-      "enabled": true
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
     },
     {
       "type": "brand-retail",
       "enabled": true,
       "sort": "sales"
+    },
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "document-banner",
+      "enabled": true
     },
     {
       "type": "document-description",
