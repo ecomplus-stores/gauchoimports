@@ -21,8 +21,16 @@
       "sort": null
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/banner-02-imports.webp"
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "2022-12-13T05:19:53.435Z",
+          "end": "2024-12-25T05:19:54.668Z",
+          "img": "/img/uploads/banner-02-imports.webp"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
