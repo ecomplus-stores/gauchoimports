@@ -8,9 +8,9 @@
       "full_width": false,
       "slides": [
         {
-          "start": "2022-07-30T05:50:01.509Z",
-          "end": "2024-07-27T05:49:38.107Z",
-          "img": "/img/uploads/banner-01_alterado.png"
+          "start": "2022-12-13T05:19:53.435Z",
+          "end": "2024-12-25T05:19:54.668Z",
+          "img": "/img/uploads/banner-02-imports.webp"
         }
       ]
     },
@@ -21,24 +21,24 @@
       "sort": null
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "2022-12-13T05:19:53.435Z",
-          "end": "2024-12-25T05:19:54.668Z",
-          "img": "/img/uploads/banner-02-imports.webp"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
       "sort": "news",
       "collection_id": "62548abb2e405e04ff387ea4:categories:Lançamentos:/lancamentos"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "2022-07-30T05:50:01.509Z",
+          "end": "2024-07-27T05:49:38.107Z",
+          "img": "/img/uploads/banner-01_alterado.png"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
