@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.78dcbdd4e27416a39ca001a667b95784.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.29b9631f262f02e09b39eb2d70684b2e.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.7611f338757a8110b6276572cfa5c478.webp",
+      "sizes": "192x192",
+      "type": "image/webp"
+    },
+    {
+      "src": "/icon_128x128.7611f338757a8110b6276572cfa5c478.webp",
+      "sizes": "128x128",
+      "type": "image/webp"
+    },
+    {
+      "src": "/icon_96x96.7611f338757a8110b6276572cfa5c478.webp",
+      "sizes": "96x96",
+      "type": "image/webp"
+    }
+  ],
+  "name": "Gaúcho Imports",
+  "short_name": "GaúchoImports",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Desde 2019 o Gaúcho Imports tem como objetivo, ser o elo, entre os clientes e seus sonhos de consumo. Trazendo o melhor da importação, de uma maneira fácil e ágil, com apenas alguns cliques. Trabalhamos com produtos dos melhores fornecedores nacionais e internacionais. A nossa missão é conectar as pessoas a uma vida com mais tecnologia, por preços acessiveis.",
+  "background_color": "#000000",
+  "theme_color": "#000000"
+}
